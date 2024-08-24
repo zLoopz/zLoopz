@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zloopz&label=Profile%20views&color=0e75b6&style=flat" alt="zloopz" /> </p>
 
-- 🔭 I’m currently working on **Plastic Omnium S.A.**
+- 🔭 I’m currently working on **OPMobility S.A.**
 
-- 🌱 I’m currently learning **Python, MySQL**
+- 🌱 I’m currently learning **Python, Java and SQL Server**
 
 - 📫 How to reach me **tomasnlopezbarraza@gmail.com**
 
